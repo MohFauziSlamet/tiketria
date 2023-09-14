@@ -78,7 +78,7 @@ class DashboardData {
       "address_destination":
           "Jl. Merdeka Selatan, Kiduldalem, Kec. Klojen, Kota Malang",
       "description":
-          "	Alun-alun Malang adalah salah satu ruang terbuka di Malang yang dipergunakan oleh masyarakat untuk berkumpul dan bersantai bersama keluarga atau teman. Di tengah alun-alun ini terdapat sebuah air mancur yang menjadi daya tarik tersendiri. Selain itu, Alun-alun Malang juga sudah dilengkapi dengan fasilitas WiFi."
+          "Alun-alun Malang adalah salah satu ruang terbuka di Malang yang dipergunakan oleh masyarakat untuk berkumpul dan bersantai bersama keluarga atau teman. Di tengah alun-alun ini terdapat sebuah air mancur yang menjadi daya tarik tersendiri. Selain itu, Alun-alun Malang juga sudah dilengkapi dengan fasilitas WiFi."
     },
   ];
 }
